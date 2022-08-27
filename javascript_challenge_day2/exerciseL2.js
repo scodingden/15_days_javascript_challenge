@@ -28,3 +28,4 @@ let diffc = a.filter((num) => !B.has(num))
 let difference = new Set(diffc)
 
 console.log(difference)
+//////////////////////////////////////
